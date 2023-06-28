@@ -1,0 +1,5 @@
+('Genie',8)
+('Samuel',5)
+('Samm',4)
+('Poppy',2)
+('gibbity',2)
